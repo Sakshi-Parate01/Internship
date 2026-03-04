@@ -1,0 +1,16 @@
+{
+    "documents": [
+        {
+            "filename": "test.pdf",
+            "file_type": ".pdf",
+            "word_count": 0,
+            "cleaned_text": ""
+        },
+        {
+            "filename": "test.txt",
+            "file_type": ".txt",
+            "word_count": 7,
+            "cleaned_text": "Hello this is testing my ingestion pipeline."
+        }
+    ]
+}

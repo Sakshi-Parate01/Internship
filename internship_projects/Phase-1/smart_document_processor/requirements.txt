@@ -1,0 +1,6 @@
+pydantic
+aiohttp
+aiofiles
+pytest
+pytest-asyncio
+PyPDF2
